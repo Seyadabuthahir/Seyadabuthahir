@@ -63,7 +63,7 @@ I'm at the beginning of my developer journey, building a strong foundation in pr
 Let's connect, share ideas and grow together!
 
 - 💼 LinkedIn: https://www.linkedin.com/in/seyad-abuthahir?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- 🐙 GitHub: [My GitHub](https://github.com/YOUR_USERNAME)
+- 🐙 GitHub: https://github.com/Seyadabuthahir
 - 📧 Email: alluabuthahir@gmail.com
 - 🌍 Portfolio: https://seyadabuthahir.github.io/abuthahir_portfolio/
 
