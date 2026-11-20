@@ -54,9 +54,9 @@ I'm at the beginning of my developer journey, building a strong foundation in pr
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&title_color=FF4B5C&icon_color=FF4B5C&text_color=FFFFFF&border_color=FF4B5C&bg_color=0D1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Seyadabuthahir&show_icons=true&theme=dark&title_color=FF4B5C&icon_color=FF4B5C&text_color=FFFFFF&border_color=FF4B5C&bg_color=0D1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&title_color=FF4B5C&text_color=FFFFFF&border_color=FF4B5C&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Seyadabuthahir&layout=compact&theme=dark&title_color=FF4B5C&text_color=FFFFFF&border_color=FF4B5C&bg_color=0D1117)
 
 ## 🌐 Connect With Me
 
